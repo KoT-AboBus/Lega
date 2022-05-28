@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@1&family=PT+Sans+Narrow&display=swap');
+body{
+    
+    margin:0;
+}
+header{
+    background-color: rgb(117, 214, 182);
+    min-height: 10vh;
+}
+main{
+    font-family: 'Open Sans';
+    padding:1vh;
+    background-color: rgb(185, 185, 185);
+    min-height: 75vh;
+}
+footer{
+    font-family: sans-serif;
+    background-color: rgb(117, 214, 182);
+    min-height: 15vh;
+}
+.logo{
+    height:8vh;
+}
+h1{
+    margin:0;
+    color: black;
+}
+.card{
+
+    margin: 1vh;
+    padding:14px;
+    border-radius: 14px;
+    background-color: white;
+}
+.card-text{
+    padding-left:3vw;
+}
+.link{
+    color:rgb(64, 200, 139);
+}
+.row{
+display: flex;
+
+
+}
+.col{
+    padding:2vh;
+}
+.ggg{
+    display: none;
+}
+.coal{
+    display:none;
+}
+.gallery{
+    margin-left:8vw;
+    width: 80vw;
+
+}
