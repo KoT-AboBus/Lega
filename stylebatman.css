@@ -1,7 +1,7 @@
 .b-photo{
     width:10vw;
     border-radius: 60%;
-    margin-left:45vw;
+    margin-left:10vw;
 }
 .b-text{
     background-color: black;
@@ -13,4 +13,75 @@
 }
 .HHHHH{
     margin-left:5vw ;
+}
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@1&family=PT+Sans+Narrow&display=swap');
+body{
+    
+    margin:0;
+}
+header{
+    background-color: rgb(26, 55, 219);
+    min-height: 10vh;
+}
+main{
+    font-family: 'Open Sans';
+    padding:1vh;
+    background-color: rgb(194, 194, 194);
+    min-height: 75vh;
+}
+footer{
+    font-family: sans-serif;
+    background-color: rgb(12, 117, 193);
+    min-height: 15vh;
+}
+.logo{
+    height:8vh;
+}
+h1{
+    margin:0;
+    color: black;
+}
+.card{
+
+    margin: 1vh;
+    padding:14px;
+    border-radius: 14px;
+    background-color: rgb(187, 199, 255);
+}
+.link{
+    color:rgb(64, 200, 139);
+}
+.row{
+display: flex;
+
+
+}
+.col{
+    padding:2vh;
+}
+.ggg{
+    display: none;
+}
+.coal{
+    display:none;
+}
+.gallery{
+    margin-left:8vw;
+    width: 80vw;
+
+}
+.error{
+    background-color:rgb(18, 18, 18);
+}
+
+.G404{
+  color:red;
+  font-size:2rem;
+}
+.taxt{
+    padding-left:2vw;
+}
+.tixt{
+    padding-left:1vw;
 }

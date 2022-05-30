@@ -5,18 +5,18 @@ body{
     margin:0;
 }
 header{
-    background-color: rgb(117, 214, 182);
+    background-color: rgb(26, 55, 219);
     min-height: 10vh;
 }
 main{
     font-family: 'Open Sans';
     padding:1vh;
-    background-color: rgb(185, 185, 185);
+    background-color: rgb(140, 140, 140);
     min-height: 75vh;
 }
 footer{
     font-family: sans-serif;
-    background-color: rgb(117, 214, 182);
+    background-color: rgb(12, 117, 193);
     min-height: 15vh;
 }
 .logo{
@@ -31,10 +31,7 @@ h1{
     margin: 1vh;
     padding:14px;
     border-radius: 14px;
-    background-color: white;
-}
-.card-text{
-    padding-left:3vw;
+    background-color: rgb(187, 199, 255);
 }
 .link{
     color:rgb(64, 200, 139);
@@ -57,4 +54,21 @@ display: flex;
     margin-left:8vw;
     width: 80vw;
 
+}
+.error{
+    background-color:rgb(18, 18, 18);
+}
+
+.G404{
+  color:red;
+  font-size:2rem;
+}
+.taxt{
+    padding-left:2vw;
+}
+.tixt{
+    padding-left:1vw;
+}
+.lank{
+    color:black;
 }
